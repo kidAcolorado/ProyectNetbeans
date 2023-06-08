@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="JavaApplication1/src"/>
-	<classpathentry kind="src" path="PROYECTO_FINAL/src"/>
-	<classpathentry kind="src" path="UT4_AccesoDatos2/src"/>
-	<classpathentry kind="src" path="UT4_AccesoDatos4/src"/>
-	<classpathentry kind="lib" path="PROYECTO_FINAL/dist/PROYECTO_FINAL.jar"/>
-	<classpathentry kind="lib" path="UT4_AccesoDatos2/dist/lib/mysql-connector-j-8.0.31.jar"/>
-	<classpathentry kind="lib" path="UT4_AccesoDatos2/dist/UT4_AccesoDatos2.jar"/>
-	<classpathentry kind="lib" path="UT4_AccesoDatos4/dist/lib/mysql-connector-j-8.0.31.jar"/>
-	<classpathentry kind="lib" path="UT4_AccesoDatos4/dist/UT4_AccesoDatos4.jar"/>
-	<classpathentry kind="output" path="PROYECTO_FINAL/build/classes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
